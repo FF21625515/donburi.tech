@@ -2,6 +2,7 @@ baseURL = "https://donburi.tech/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "m10c"
+publishDir = "docs"
 
 [params.style]
 darkestColor = "#cd5e3c"
