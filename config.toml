@@ -1,3 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://donburi.tech/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "m10c"
+
+[params.style]
+darkestColor = "#cd5e3c"
+darkColor = "#33170f"
+primaryColor = "#ebf6f7"
+lightColor = "#ccada3"
+lightestColor = "#d3d3d3"
+
