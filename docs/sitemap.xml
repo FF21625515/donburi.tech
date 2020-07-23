@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://donburi.tech/</loc>
+    <lastmod>2020-07-24T07:34:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donburi.tech/posts/</loc>
+    <lastmod>2020-07-24T07:34:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donburi.tech/posts/test/</loc>
+    <lastmod>2020-07-24T07:34:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://donburi.tech/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://donburi.tech/tags/</loc>
+  </url>
+  
+</urlset>
